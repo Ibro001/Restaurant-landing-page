@@ -1,3 +1,15 @@
+# Gericht Restaurant Landing Page
+This beautiful project is an exquisite work of art build with the client in mind, Gericht restaurant makes it's user feel welcome and comfortable even before scheduling an actual visit to the restaurant!
+
+In this project i took a figma design design and turned it into a beautiful and responsive website, using react
+to write beautiful, clean code and well structured files as well as reusable components and CSS to style and place 
+the well crafted designs in their respective position.
+
+React.js was utilized for this project due to it high performance when it come's to building responsive website and
+web based applications.
+CSS was used to styled the app using the Block Element Method (BEM) approach because it helps developers better understand the relationship between the HTML and CSS  in a given project as well as it help developers write clean, well organized and maintainable CSS and speeds up the development process.
+For the icons, the react-icon library icons were used as they have a low build size.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -11,60 +23,57 @@ In the project directory, you can run:
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Demo
 
-### `npm test`
+`The link to the live website:`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+https://gericht-eateries.netlify.app/
+## Tech Stack
 
-### `npm run build`
+**Client:** React, CSS, Figma
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Features
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+- React functional component and their reusability.
+- React file and folder structure.
+- CSS BEM model.
+- Soft and pleasant animation.
+- Well laid design.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## Usage/Examples
 
-### `npm run eject`
+`A fine dining restaurant website`
+## Screenshots
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+`The Hero Section`
+![hero](https://user-images.githubusercontent.com/48089134/234411105-dd83a1cb-949d-4dc9-b804-98aa9ec0ddb2.png)
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+`The AboutUs Section`
+![AboutUs](https://user-images.githubusercontent.com/48089134/234411154-d3ac5ea7-62ca-4046-956b-851f266be231.png)
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+`The Menu Section`
+![menu](https://user-images.githubusercontent.com/48089134/234411197-8ebf0855-c3bc-4f9a-8a35-9f5f1dfbe767.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+`The Intro Section`
+![intro](https://user-images.githubusercontent.com/48089134/234411302-dd8b9d1e-2ba4-4b82-a08b-41e6a2970ddf.png)
 
-## Learn More
+`The Laurels Section`
+![laurels](https://user-images.githubusercontent.com/48089134/234411345-5fde3b93-7041-45a3-a31c-81a85c6a9879.png)
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+`The Gallery Section`
+![gallery](https://user-images.githubusercontent.com/48089134/234411413-0c488eda-99eb-401f-bda4-8818fb99f0e7.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+`The FindUs Section`
+![findUs](https://user-images.githubusercontent.com/48089134/234411442-e4b24903-181b-42a0-bb84-0162c9f26836.png)
 
-### Code Splitting
+`The Newsletter Section`
+![newsletter](https://user-images.githubusercontent.com/48089134/234411639-1ea63d6d-3629-46a0-9222-11479270963a.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+`The Footer Section`
+![footer](https://user-images.githubusercontent.com/48089134/234411658-b22f522b-0549-4bde-b707-a646e36a1a5d.png)
 
-### Analyzing the Bundle Size
+## Contributing
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Contributions are highly appreciated!
 
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+`Kindly send a pull request and I will review them with immediate effect`
